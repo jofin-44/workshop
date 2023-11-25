@@ -1,0 +1,19 @@
+.table{
+    background-color: rgb(34, 33, 33)
+}
+    
+.size{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: tan;
+    align-items: c;
+}
+
+.display{
+    border-radius: 6px;
+    padding: 20px;
+    width: 290px;
+}
